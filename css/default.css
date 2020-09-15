@@ -824,7 +824,6 @@ properly.
    width: 280px;
    height: 55vh;
    min-width: 300px;
-   min-height: 400px;
    margin-left: auto;
    margin-right: auto;
    padding-left: 0px;
@@ -844,7 +843,7 @@ properly.
  .card {
    display: inline-block;
    width: 100%;
-   height: 100%;
+   height: 470px;
    cursor: pointer;
    -moz-backface-visibility: hidden;
    -webkit-transform-style: preserve-3d;
