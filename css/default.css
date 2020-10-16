@@ -822,7 +822,8 @@ properly.
  .cardContainer {
    position: relative;
    width: 280px;
-   height: 55vh;
+   
+   min-height: 500px;
    min-width: 300px;
    margin-left: auto;
    margin-right: auto;
