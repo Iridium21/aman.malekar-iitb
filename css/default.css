@@ -58,6 +58,9 @@ time, mark, audio, video {
    background: transparent;
 }
 
+img.rounded-corners {
+   border-radius: 5px;
+ }
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
    display: block;
@@ -937,7 +940,7 @@ properly.
    transition: 0.3s ease-in-out;
  }
  .back .reviews:hover p {
-   color: #555;
+   color: rgb(104, 0, 0);
  }
  .back li {
    line-height: 22px;
